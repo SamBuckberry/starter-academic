@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sam Buckberry
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow in Genome Biology and Bioinformatics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The University of Western Australia
+  url: "https://www.uwa.edu.au/"
+- name: The Harry Perkins Institute of Medical Research
+  url: "https://www.perkins.org.au/"
+- name: Lister Lab
+  url: "https://www.listerlab.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Genomics
+- Epigenetics
+- Bioinformatics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Medicine (Bioinformatics)
+    institution: The Univeristy of Adelaide
+    year: 2015
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -44,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sam.buckberry@uwa.edu.au'  # For a direct email link, use "mailto:sam.buckberry@uwa.edu.au".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/sambuckberry
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=b--b_fUAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sambuckberry
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
