@@ -19,27 +19,29 @@ organizations:
 - name: The Harry Perkins Institute of Medical Research
   url: "https://www.perkins.org.au/"
 - name: Lister Lab
-  url: "https://www.listerlab.org"
+  url: "http://listerlab.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include genomics, epigenetics and bioinformatics.
 
 interests:
 - Genomics
-- Epigenetics
+- DNA methylation
 - Bioinformatics
+- Stem Cell Biology
+- Human Development
 
 education:
   courses:
   - course: PhD in Medicine (Bioinformatics)
     institution: The Univeristy of Adelaide
     year: 2015
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Health Sciences (Honours)
+    institution: The University of Adelaide
+    year: 2011
+  - course: Bachelor of Science
+    institution: Flinders University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
